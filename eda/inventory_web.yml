@@ -6,5 +6,4 @@ all:
 web:
   hosts:
     webserver:
-      ansible_user: rhel
-      ansible_password: ansible123!
+      ansible_user: maratsal
