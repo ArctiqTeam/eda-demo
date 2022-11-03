@@ -7,7 +7,7 @@
         host: broker
         port: 9092
         topic: eda-topic
-        group_id:
+        group_id: qwerty
 
   ## Define the conditions we are looking for
   rules:
